@@ -1,0 +1,29 @@
+body{
+	background-image
+	align-content: center;
+}
+
+.container{
+	margin-left: 300px;
+	align-content: center;
+	margin: 40px;
+	background-color: rosybrown;
+	border: solid medium;
+	border-color:#63473D;
+	width:700px;
+}
+
+.container2{
+	margin-left: 300px;
+	align-content: center;
+	background-color: mintcream;
+	border: medium dashed;
+	border-color:#003249;
+	padding:100px;
+	width:650px;
+}
+
+#hi{
+	border: medium solid;
+	border-color:#003249;
+}
